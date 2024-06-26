@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Test MP</string>
+    <string name="holder">holder</string>
+    <string name="detail_title">Detalle</string>
+    <string name="sign_in">Iniciar sesión</string>
+    <string name="sign_up">Registrarse</string>
+    <string name="finish">Salir</string>
+    <string name="email">Correo electrónico</string>
+    <string name="sign_up_email">Ingresa un Correo electrónico</string>
+    <string name="sign_up_password">Ingresa una Contraseña</string>
+    <string name="password">Contraseña</string>
+    <string name="cancel">Cancelar</string>
+    <string name="ok">Aceptar</string>
+    <string name="logout_title">¿Quieres cerrar tu sesión?</string>
+    <string name="vote_count">Recuento de votos:</string>
+    <string name="vote_average">Voto promedio:</string>
+    <string name="detail">descripción:</string>
+    <string name="date">fecha de estreno:</string>
+    <string name="gender">géneros:</string>
+    <string name="classification">clasificación adultos:</string>
+</resources>
